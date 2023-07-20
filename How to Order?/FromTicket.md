@@ -20,7 +20,7 @@ Untuk itu silakan check pesanan anda di track order channel!
 
 *Pengingat*<br>
 ```
-Jika sudah lewat estimasi yang belum kabarin maupun sudah di kabarin, segera ke tiket dan ketik **belum**.
+Jika sudah lewat estimasi yang belum kabarin maupun sudah di kabarin, segera ke tiket dan ketik "belum".
 ```
 8. Dan silakan atur server anda!.<br>
 
@@ -44,6 +44,6 @@ For that, please check your order on the track order channel!<br>
 
 *Reminder*<br>
 ```
-If it's past the estimate that hasn't been notified or has been notified, go to the ticket immediately and type **not yet**.<br>
+If it's past the estimate that hasn't been notified or has been notified, go to the ticket immediately and type "not yet".<br>
 ```
 8. And please set your server!.<br>
