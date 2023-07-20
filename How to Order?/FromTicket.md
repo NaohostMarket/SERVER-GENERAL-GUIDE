@@ -36,14 +36,14 @@ To order via ticket, please follow the instructions below!<br>
 
 *Reminder*<br>
 ```
-The order you ordered depends on the delivery rate and usually an estimate will be given for your product to arrive.<br>
-For that, please check your order on the track order channel!<br>
+The order you ordered depends on the delivery rate and usually an estimate will be given for your product to arrive.
+For that, please check your order on the track order channel!
 ```
 6. And yes your goods arrive at the sender (user courier).<br>
 7. Please go to the ticket to type **confirm** if the item has arrived, if not please type **not yet**.<br>
 
 *Reminder*<br>
 ```
-If it's past the estimate that hasn't been notified or has been notified, go to the ticket immediately and type "not yet".<br>
+If it's past the estimate that hasn't been notified or has been notified, go to the ticket immediately and type "not yet".
 ```
 8. And please set your server!.<br>
