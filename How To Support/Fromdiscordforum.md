@@ -8,7 +8,7 @@ ID :<br>
 5. Jika sudah silakan klik post.
 6. Jadi silakan tunggu untuk cs menjawab pertanyaan / masalah anda!
 
-untuk tutorial lewat video silakan download video berikut ini! [VIDEO TUTORIAL](https://media.discordapp.net/attachments/1114807981951942656/1114867685277315122/lv_0_20230604174428.mp4).
+untuk tutorial lewat video silakan download video berikut ini! [VIDEO TUTORIAL](https://media.discordapp.net/attachments/1114807981951942656/1114867685277315122/lv_0_20230604174428.mp4)
 
 ENG : <br>
 1. Click new post.
@@ -18,5 +18,5 @@ ENG : <br>
 5. If you have, please click post.
 6. So please wait for CS to answer your question / problem!
 
-For tutorials via video, please download the following video! [VIDEO TUTORIALS](https://media.discordapp.net/attachments/1114807981951942656/1114867685277315122/lv_0_20230604174428.mp4).
+For tutorials via video, please download the following video! [VIDEO TUTORIALS](https://media.discordapp.net/attachments/1114807981951942656/1114867685277315122/lv_0_20230604174428.mp4)
 
